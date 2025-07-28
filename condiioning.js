@@ -31,12 +31,23 @@
 
 const weather = 'snow';
 
-if (weather === 'sun'){
-    console.log("it's sunny, so i'm going swimming.");
-} else if (weather === 'rain') {
-    console.log("it's raining so i will read a book");
-} else if(weather === 'snow'){
-    console.log("it's snowing, so i'm going sliding");
-} else{
-    console.log('i dont know what am doing today');
-}
+// if (weather === 'sun'){
+//     console.log("it's sunny, so i'm going swimming.");
+// } else if (weather === 'rain') {
+//     console.log("it's raining so i will read a book");
+// } else if(weather === 'snow'){
+//     console.log("it's snowing, so i'm going sliding");
+// } else{
+//     console.log('i dont know what am doing today');
+// }
+
+
+// let correct = 1 
+// const answer1 = prompt("what is your name");
+// if (answer1.toUpperCase() ==="ruby"){
+//     correct +=1;
+//     console.log ('keep going')
+// } else {
+//     correct = "none";
+// }
+
